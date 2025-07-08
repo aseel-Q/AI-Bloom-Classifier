@@ -22,32 +22,45 @@ The files are uploaded:
 Why is your project useful?
 
 1. It demonstrates a practical application of artificial intelligence
+
 • The project demonstrates how artificial intelligence can be used to accurately classify images.
+
 • Instead of humans having to identify flower types, the model automatically identifies them.
 
 ⸻
 
 2. It relies on real images
+
 • It can be used in educational, agricultural, or even smart camera applications.
+
 • The model is able to distinguish between flower types with just a single image.
 
 ⸻
 
 3. It simplifies the concept of machine learning for beginners
+
 • Using tools like Teachable Machine and Google Colab makes the project suitable for beginners to understand how a model is trained and classified.
 
 ⸻
 
 4. Scalable
+
 • You can easily expand the project later to include:
+
 • Classifying more flower types
+
 • Using a live camera
+
 • Integrating it with a mobile app
 
 ⸻
 
 5. Implements the concept of intelligent automation
+
 • This type of project can be used to automate tasks such as:
+
 • Classifying plants in a garden
+
 • Educational applications for children
+
 • Supporting the blind with visual object recognition
